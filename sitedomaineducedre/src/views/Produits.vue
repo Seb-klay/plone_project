@@ -49,7 +49,7 @@ export default {
         {
           title: 'Les minimalistes',
           text: `La simplicité dans le creux de votre main.`,
-          img: require('../assets/savon4.jpg'),
+          img: require('../assets/minimalistes.jpg'),
           src: '/produits/minimalistes',
         },
         {

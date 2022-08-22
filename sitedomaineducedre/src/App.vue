@@ -40,7 +40,7 @@
           <v-spacer></v-spacer>
 
           <img
-            :src="require('@/assets/Logo_domaine_du_cèdre.png')"
+            :src="require('@/assets/LogoDDCWhite.png')"
             alt="logo"
             class="logo">
 
@@ -72,7 +72,7 @@
           elevate-on-scroll
         >
           <img
-          :src="require('@/assets/Logo_domaine_du_cèdre.png')"
+          :src="require('@/assets/LogoDDCWhite.png')"
           alt="logo"
           class="logo">
 

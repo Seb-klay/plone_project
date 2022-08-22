@@ -2,7 +2,7 @@
   <div id="home">
       <v-carousel
         cycle
-        height="400"
+        height="500"
         hide-delimiters
         :show-arrows="false"
       >
@@ -32,10 +32,10 @@ export default {
     return {
       items: [
         {
-          src: require("../assets/savon1.jpg"),
+          src: require("../assets/minimalistes.jpg"),
         },
         {
-          src: require("../assets/savon2.jpg"),
+          src: require("../assets/savons.jpg"),
         },
         {
           src: require("../assets/savon3.jpg"),
